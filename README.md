@@ -23,6 +23,6 @@ Sou **Desenvolvedor Mobile Rect Native**
 ![google_firebase_icon-icons com_61475 (1)](https://user-images.githubusercontent.com/120469468/207322501-461696cb-7b98-479e-881d-462c6f356299.png)
 
 ## Estatisticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurNunescs345&show_icons=true&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurNunescs345&show_icons=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurNunescs345&&theme=algolia)](https://github.com/ArthurNunescs345/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurNunescs345&&theme=github_dark)](https://github.com/ArthurNunescs345/github-readme-stats)
